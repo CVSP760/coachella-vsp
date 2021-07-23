@@ -1,7 +1,8 @@
 {
-"name": "Coachella Valley Stake Pool",
+"name": "CoachellADA",
 "description": "Ada Stake Pool based in the Coachella Valley",
-"ticker": "CVSP",
-"homepage": "https://coachellavalleystakepool.com"
+"ticker": "CHLA",
+"homepage": "https://coachellavalleystakepool.com",
+"extended": "https://git.io/J8qaG" 
 }
 EOF
